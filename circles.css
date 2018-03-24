@@ -1,10 +1,21 @@
 canvas {
     width: 100%;
     height: 100%;
-    background: black;
+    background: cyan;
 }
 
 body, html {
     height: 100%;
     margin: 0;
+}
+
+h1 {
+    text-transform: uppercase;
+    background: cyan;
+    color: #fff;
+    margin: 0;
+    padding-top: 30px;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 50px;
 }
